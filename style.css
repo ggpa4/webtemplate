@@ -1,0 +1,14 @@
+.a{
+    border-radius: 5px 0 0 5px;
+}
+.b{
+    border-radius: 0 5px 5px 0;
+}
+.c
+{
+    background: #4570B6 !important;
+}
+.list-group-item img {
+    width: 20px;
+    padding-right: 5px;
+}
